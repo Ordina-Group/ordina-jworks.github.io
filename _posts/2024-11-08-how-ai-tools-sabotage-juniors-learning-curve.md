@@ -51,7 +51,8 @@ Despite its benefits, over-dependence on AI can have significant drawbacks:
 
 #### 1. Quickly Forgotten Knowledge
 
-AI-generated solutions might feel satisfying at the moment but are often quickly forgotten. Without hands-on practice and active problem-solving, this information doesn’t stick, leaving us with only a vague recollection.
+AI-generated solutions might feel satisfying at the moment but are often quickly forgotten. 
+Without hands-on practice and active problem-solving, this information doesn’t stick, leaving us with only a vague recollection.
 
 #### 2. Dependency Addiction
 
