@@ -44,11 +44,11 @@ AI can be highly advantageous when:
 
 - **AI provides code snippets, templates, or solutions for unfamiliar areas.**  
   This can boost confidence and momentum, allowing us to progress through projects efficiently.
-oke
+
 ### The Drawbacks of Over-Reliance on AI
 
 Despite its benefits, over-dependence on AI can have significant drawbacks:
-//comment
+
 #### 1. Quickly Forgotten Knowledge
 
 AI-generated solutions might feel satisfying at the moment but are often quickly forgotten. 
