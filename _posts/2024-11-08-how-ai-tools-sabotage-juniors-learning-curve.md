@@ -48,7 +48,7 @@ oke
 ### The Drawbacks of Over-Reliance on AI
 
 Despite its benefits, over-dependence on AI can have significant drawbacks:
-
+//comment
 #### 1. Quickly Forgotten Knowledge
 
 AI-generated solutions might feel satisfying at the moment but are often quickly forgotten. 
