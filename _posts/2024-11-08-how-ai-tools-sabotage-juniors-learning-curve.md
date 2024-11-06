@@ -111,9 +111,10 @@ Should we ride the AI wave? Yes, but with critical practices in place:
 
 ### What Does It Mean to Be an Apprentice?
 
-Marten Gustafson, an expert we interviewed, summed up the apprentice mindset beautifully: 
+This is what I found defined in the book *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)* by Dave Hoover and Adewale Oshineye.
 
-> “I guess it basically means having the attitude that there’s always a better/smarter/faster way to do what you just did and what you’re currently doing. Apprenticeship is the state/process of evolving and looking for better ways and finding people, companies, and situations that force you to learn those better/smarter/faster ways.”
+>Marten Gustafson, an expert we interviewed, summed up the apprentice mindset beautifully:
+>“I guess it basically means having the attitude that there’s always a better/smarter/faster way to do what you just did and what you’re currently doing. Apprenticeship is the state/process of evolving and looking for better ways and finding people, companies, and situations that force you to learn those better/smarter/faster ways.”
 
 Being an apprentice is about embracing continuous growth and self-improvement. 
 It marks the start of your journey as a software craftsman, 
