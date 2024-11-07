@@ -18,10 +18,10 @@ comments: true
 
 Using AI as a junior developer often provides a sense of hope and easy access to information, 
 but this convenience comes with its own set of challenges when real (client) problems arise. 
-In the spirit of preserving knowledge and fostering honest communication, 
+In the spirit of preserving knowledge and fostering communication, 
 I felt compelled to share my perspective on this journey.
 
-This article stems from a moment of reflection during a drive home,
+This article comes from a moment of reflection during a drive home,
 where I pondered my apprenticeship and the learning process as a junior developer. 
 This is aimed to comfort fellow juniors and newcomers and to offer relevant feedback to colleagues.
 
@@ -40,78 +40,78 @@ This led me to reflect on the types of information that stick and those that don
 
 ### When AI is Incredibly Beneficial
 
-AI can be highly advantageous when:
+AI proves highly advantageous in specific scenarios. 
+For instance, when tackling technologies outside our primary focus, 
+such as front-end development while specializing in back-end work, AI can offer fast, reliable guidance. 
 
-- **We need help with technologies outside our primary focus.**  
-  For example, when I needed front-end code despite my primary focus being back-end development, AI tools provided fast and reliable assistance.
-  This helps junior developers fill in knowledge gaps quickly, enabling them to move forward without getting stuck.
-   For instance, I was not familiar with Angular, but using AI to prompt me on how components work made it much easier to refactor and update my code.
+This support helps junior developers bridge knowledge gaps quickly, enabling them to move forward without unnecessary delays.
+ I found this particularly useful when working with Angular; 
+ AI-assisted prompts helped me understand components and streamline my refactoring process.
 
-- **AI provides code snippets, templates, or solutions for unfamiliar areas.**  
-  AI can provide code snippets, templates, and solutions for areas that may be unfamiliar to developers. 
-  This capability can significantly boost confidence and momentum, 
-  enabling users to progress through projects more efficiently.
-  For junior developers, this support can be particularly valuable when they encounter obstacles, 
-  allowing them to overcome challenges and continue their work. 
+Another benefit is AI’s ability to provide code snippets, templates, and solutions for unfamiliar areas. 
+These resources can boost confidence and momentum, allowing developers to progress more efficiently. For junior developers,
+ AI offers valuable support when they face obstacles, helping them overcome challenges and continue their work productively.
  
-
-
-
 ### The Drawbacks of Over-Reliance on AI
 
 Despite the numerous benefits that AI can offer, 
 over-dependence on these tools can lead to significant drawbacks that affect our long-term development and problem-solving capabilities.
 
-#### 1. Quickly Forgotten Knowledge
+AI-generated solutions provide immediate satisfaction and relief when faced with coding challenges.
+However, the knowledge gained from these quick fixes is often fleeting.
+When developers rely on AI without engaging in hands-on practice or active problem-solving,
+ they miss the chance to solidify their understanding of the concepts. As a result, 
+ information fades quickly, leaving only a vague recollection. 
+This lack of retention can hinder the ability to tackle similar problems independently in the future.
 
-AI-generated solutions can provide immediate satisfaction and relief when faced with coding challenges.
-However, the knowledge gained from these quick fixes is often ephemeral. 
-When developers rely on AI without engaging in hands-on practice or active problem-solving, 
-they miss the opportunity to solidify their understanding of the concepts at hand. Consequently, 
-this leads to a situation where information fades away, leaving only a vague recollection of what was learned. 
-This lack of retention can hinder our ability to tackle similar problems independently in the future.
+Additionally, heavy reliance on AI can create what i call **Dependency Addiction**.
+This dependency weakens critical skills essential for a developer's growth and proficiency, such as debugging and troubleshooting. 
+When juniors frequently turn to AI, they may miss out on the practice of tracing errors and manually solving problems, 
+which stifles their ability to independently resolve issues. The same applies to refactoring skills; while AI-generated code might work, 
+it often lacks the nuanced analysis that comes with deep understanding.
+Developers may miss valuable learning opportunities in improving or adapting code, 
+as they may not fully grasp the reasoning behind AI-suggested changes.
+Moreover, in situations where AI tools become unavailable due to an outage, 
+developers who depend on AI for problem-solving may feel unprepared and overwhelmed, 
+which could lead to frustration and reduced productivity.
 
-#### 2. Dependency Addiction
-
-An over-reliance on AI for assistance can create what I refer to as **Dependency Addiction**. 
-This phenomenon can weaken critical skills essential for a developer's growth and proficiency, such as:
-
-- ##### Debugging and Troubleshooting: 
-  When juniors consistently turn to AI for help, 
-  they may forego the practice of error tracing and manual problem-solving. 
-  This reliance stifles their ability to identify and resolve issues independently, which is a crucial skill in any developer's toolkit.
-
-- ##### Refactoring Skills:  
-  Although AI-generated code may function correctly, it often lacks the nuanced analysis that comes from deep understanding. Developers may miss valuable learning opportunities related to improving or adapting code, as they may not fully grasp the rationale behind the changes suggested by AI.
-
-- ##### Facing Outages: 
-  Consider a scenario where AI tools become unavailable due to an outage. Without the habit of relying on manual problem-solving skills, developers may find themselves feeling unprepared and overwhelmed when confronted with an issue. This lack of readiness can lead to frustration and reduced productivity.
-
-#### 3. Code Quality Risks
-
-While AI can generate code quickly, this code may come with hidden risks. What may initially appear to be functional could quickly devolve into a "can of bugs"—working under certain conditions but leading to unforeseen problems when deployed in a production environment. Such issues can stem from a lack of thorough testing, understanding of best practices, or consideration of the specific context in which the code will operate. Ultimately, this can result in technical debt and increased maintenance costs, undermining the advantages that AI was supposed to provide.
-
+Finally, while AI can generate code quickly, it can also introduce hidden risks.
+ What may initially appear functional could devolve into a "can of bugs"-code that works under certain conditions but fails in a production environment. 
+ These issues can arise from a lack of thorough testing, a limited understanding of best practices, 
+ or failure to consider the specific context in which the code operates. Ultimately, 
+ this can result in technical debt and increased maintenance costs, 
+ undercutting the advantages AI was intended to bring.
 
 ## Navigating AI as a Tool, Not a Crutch
 
-Should we ride the AI wave? Yes, but with critical practices in place:
+Should we ride the AI wave? Yes, but with critical practices in place.
 
-- **Review and Understand:**  
-  Always review AI-generated code and understand how and why it works. 
-  Dissect it and use it as a learning opportunity.
+First, it's crucial to review and understand AI-generated code. 
+Rather than accepting the code at face value, take the time to dissect it and grasp how it functions and why certain choices were made. 
+This examination transforms AI outputs into valuable learning opportunities, 
+allowing developers to deepen their understanding of specific patterns and practices. 
+By questioning and analyzing AI’s suggestions, we can integrate these insights into our own problem-solving toolkit, 
+enhancing our knowledge and making us more effective in coding independently.
 
-- **Practice Without AI:**  
-  Regularly write and debug code manually to build core skills.
+Secondly, making a habit of practicing without AI is key. 
+Regularly writing and debugging code without AI assistance builds the foundational skills essential to any developer.
+While AI can expedite tasks, the ability to manually construct, troubleshoot, and optimize code is irreplaceable. 
+Practicing without AI fosters resilience and improves proficiency in critical areas like syntax fluency, 
+logical structuring, and error handling. \
+This hands-on experience is vital for developing a well-rounded skill set that can be relied upon in any situation.
 
-- **Develop an Analytical Spirit:**  
-  Treat problems as opportunities to think through solutions before resorting to AI. 
-  This fosters the analytical mindset needed for real-world development.
+Lastly, fostering an analytical spirit helps developers approach problems thoughtfully before turning to AI for solutions. 
+Treat each coding challenge as an opportunity to independently think through potential solutions. 
+By engaging deeply with the problem at hand, developers cultivate an analytical mindset that sharpens creativity and adaptability.
+This approach is especially valuable in real-world development, where problems often demand innovative, 
+context-sensitive solutions that AI alone may not adequately address.
 
 ## The Apprentice Mindset: A Foundation for Junior Developers
 
 ### What Does It Mean to Be an Apprentice?
 
-This is what I found defined in the book *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)* by Dave Hoover and Adewale Oshineye.
+This is what I found defined in the book 
+*[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)* by Dave Hoover and Adewale Oshineye.
 
 >Marten Gustafson, an expert we interviewed, summed up the apprentice mindset beautifully:
 >“I guess it basically means having the attitude that there’s always a better/smarter/faster way to do what you just did and what you’re currently doing. Apprenticeship is the state/process of evolving and looking for better ways and finding people, companies, and situations that force you to learn those better/smarter/faster ways.”
@@ -163,7 +163,7 @@ This mindset can inspired me to stay curious, push my boundaries, and continuous
 
     In my opinion, you should harness your energy and motivation to shape a learning path that suits you best.
 
-    <img alt="junior_reading" src="{{ '/img/2024-11-08-how-ai-sabotages-juniors-learning-curve/junior-making.png' | prepend: site.baseurl }}" style="float: left; max-width: 400px; padding: 15px;">
+    <img alt="junior_reading" src="{{ '/img/2024-11-08-how-ai-sabotages-juniors-learning-curve/junior-making.png' | prepend: site.baseurl }}" style="float: left; max-width: 380px; padding: 10px;">
 
     Don’t get me wrong—I’m not here to sell you independence just for the sake of it. 
     What I’m trying to express is that you shouldn’t consume all the information presented to you without discretion. Take it in thoughtfully so you know how relevant it is for you.
@@ -190,3 +190,14 @@ Reflect on your habits, adapt thoughtfully, and share these insights with peers 
 
 Apprenticeship is about facing knowledge gaps, creating your own leraning pattern, nurturing problem-solving instincts, and embracing the journey with patience. 
 Remember, every challenge adds to your expertise, and balancing AI assistance with real learning builds a foundation for a successful and sustainable career.
+
+## Acknowledgments
+I want to add my heartfelt thanks to my colleagues and mentors. 
+Their friendliness and fun spirit make each day enjoyable, and their enthusiasm turns learning into a rewarding experience. 
+They are always open and welcoming, ready to offer guidance, share knowledge, and provide support whenever I need it.
+Working alongside them makes every challenge easier and every achievement more meaningful. 
+Thank you all for creating such a supportive and inspiring environment!
+
+## Sources
+- *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://patterns.sddevelopment.be/books/d22ee68e-2f19-4677-9123-2994cb111c0c/)*  
+  by Dave Hoover and Adewale Oshineye
