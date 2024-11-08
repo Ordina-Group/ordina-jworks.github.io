@@ -3,7 +3,7 @@ layout: post
 authors: [ayoub_ait_cheikh_ahmed]
 title: "How AI Sabotages the Learning Curve of Junior Developers"
 image: /img/2024-11-08-how-ai-sabotages-juniors-learning-curve/banner.png
-tags: [Junior Developer, AI, Learning Curve, Apprentice, Apprenticeship ]
+tags: [AI, learning curve, apprentice, apprenticeship]
 category: Culture
 comments: true
 ---
@@ -29,7 +29,7 @@ This is aimed to comfort fellow juniors and newcomers and to offer relevant feed
 
 ## Overview: The Dual Nature of AI in the Junior Developer Experience
 
-As junior developers, we are heavy consumers of information. 
+As junior developers, I am a heavy consumers of information. 
 We love that "cooked" knowledge provided by experts and often accept it unquestioningly, building on it.
 The depth of these insights and experiences helps us retain information, carving it into stone.
 
@@ -192,7 +192,7 @@ Apprenticeship is about facing knowledge gaps, creating your own leraning patter
 Remember, every challenge adds to your expertise, and balancing AI assistance with real learning builds a foundation for a successful and sustainable career.
 
 ## Acknowledgments
-I want to add my heartfelt thanks to my colleagues and mentors. 
+I want to add my sincere thanks to my colleagues and mentors. 
 Their friendliness and fun spirit make each day enjoyable, and their enthusiasm turns learning into a rewarding experience. 
 They are always open and welcoming, ready to offer guidance, share knowledge, and provide support whenever I need it.
 Working alongside them makes every challenge easier and every achievement more meaningful. 
