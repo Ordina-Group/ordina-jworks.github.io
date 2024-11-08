@@ -29,7 +29,7 @@ This is aimed to comfort fellow juniors and newcomers and to offer relevant feed
 
 ## Overview: The Dual Nature of AI in the Junior Developer Experience
 
-As junior developers, I am a heavy consumers of information. 
+As a junior developer, I consider myself a heavy consumer of information. 
 We love that "cooked" knowledge provided by experts and often accept it unquestioningly, building on it.
 The depth of these insights and experiences helps us retain information, carving it into stone.
 
@@ -49,8 +49,8 @@ This support helps junior developers bridge knowledge gaps quickly, enabling the
  AI-assisted prompts helped me understand components and streamline my refactoring process.
 
 Another benefit is AI’s ability to provide code snippets, templates, and solutions for unfamiliar areas. 
-These resources can boost confidence and momentum, allowing developers to progress more efficiently. For junior developers,
- AI offers valuable support when they face obstacles, helping them overcome challenges and continue their work productively.
+These resources can boost confidence and momentum, allowing developers to progress more efficiently.
+For junior developers, AI offers valuable support when they face obstacles, helping them overcome challenges and continue their work productively.
  
 ### The Drawbacks of Over-Reliance on AI
 
@@ -64,7 +64,7 @@ When developers rely on AI without engaging in hands-on practice or active probl
  information fades quickly, leaving only a vague recollection. 
 This lack of retention can hinder the ability to tackle similar problems independently in the future.
 
-Additionally, heavy reliance on AI can create what i call **Dependency Addiction**.
+Additionally, heavy reliance on AI can create what I call **Dependency Addiction**.
 This dependency weakens critical skills essential for a developer's growth and proficiency, such as debugging and troubleshooting. 
 When juniors frequently turn to AI, they may miss out on the practice of tracing errors and manually solving problems, 
 which stifles their ability to independently resolve issues. The same applies to refactoring skills; while AI-generated code might work, 
@@ -97,7 +97,7 @@ Secondly, making a habit of practicing without AI is key.
 Regularly writing and debugging code without AI assistance builds the foundational skills essential to any developer.
 While AI can expedite tasks, the ability to manually construct, troubleshoot, and optimize code is irreplaceable. 
 Practicing without AI fosters resilience and improves proficiency in critical areas like syntax fluency, 
-logical structuring, and error handling. \
+logical structuring, and error handling.
 This hands-on experience is vital for developing a well-rounded skill set that can be relied upon in any situation.
 
 Lastly, fostering an analytical spirit helps developers approach problems thoughtfully before turning to AI for solutions. 
@@ -110,11 +110,11 @@ context-sensitive solutions that AI alone may not adequately address.
 
 ### What Does It Mean to Be an Apprentice?
 
+>Marten Gustafson, an expert we interviewed, summed up the apprentice mindset beautifully:
+>"I guess it basically means having the attitude that there’s always a better/smarter/faster way to do what you just did and what you’re currently doing. Apprenticeship is the state/process of evolving and looking for better ways and finding people, companies, and situations that force you to learn those better/smarter/faster ways."
+
 This is what I found defined in the book 
 *[Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/)* by Dave Hoover and Adewale Oshineye.
-
->Marten Gustafson, an expert we interviewed, summed up the apprentice mindset beautifully:
->“I guess it basically means having the attitude that there’s always a better/smarter/faster way to do what you just did and what you’re currently doing. Apprenticeship is the state/process of evolving and looking for better ways and finding people, companies, and situations that force you to learn those better/smarter/faster ways.”
 
 Being an apprentice is about embracing continuous growth and self-improvement. 
 It marks the start of your journey as a software craftsman, 
